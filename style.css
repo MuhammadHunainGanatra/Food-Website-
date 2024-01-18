@@ -1,0 +1,36 @@
+body{
+    font-family: sans-serif;
+    margin: 0px;
+}
+div{
+    background-color: #004c59;
+    height: 200px;
+}
+.topbar{
+    color: #ffffff;
+    padding:10px ;
+    text-align: center;
+    font-size: 45px;
+}
+.navbar ul{
+    list-style-type: none;
+    padding: 0px;
+    padding: 0px;
+    margin: 0px;
+    background-color: #e4f1f3;
+    overflow: hidden;
+}
+.navbar a{
+    color: #000000;
+    text-align: center;
+    display: block;
+    padding: 15px;
+    text-decoration: none;
+    margin-right: 155px;
+}
+.navbar li{
+    float: left;
+}
+.navbar a:hover{
+    background-color: #929292
+}
